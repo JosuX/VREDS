@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 295580d023797874ca259f348eb12e38
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.004
+    second: {fileID: 2100000, guid: 42f4b8b53e21d424f90c426b500c35af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.009
+    second: {fileID: 2100000, guid: 35b30d19a8a88f140a1877469a9a8b97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.010
+    second: {fileID: 2100000, guid: 02ec4871ec5891c49a6d25d8b6c2af4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.033
+    second: {fileID: 2100000, guid: 2e3e314b9619f414f92d76afe440843f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.041
+    second: {fileID: 2100000, guid: 8bba5ac84ddfcd84d9f51228215d1c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.051
+    second: {fileID: 2100000, guid: 34be50bc720889d42bfc0c7b71e36aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.089
+    second: {fileID: 2100000, guid: cb0a813307bd0a248a12cc043a318755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.099
+    second: {fileID: 2100000, guid: 808290c0774d7b544ad0af6cd7154b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.100
+    second: {fileID: 2100000, guid: 94bbe9e6a15461346908c28ab58371a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.114
+    second: {fileID: 2100000, guid: 26617d1f5fdc88c44ae5daee89a75f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.117
+    second: {fileID: 2100000, guid: 80d95e2d35606de47b91e2e0d0e97f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.120
+    second: {fileID: 2100000, guid: 2da51d9d8232f5046b70d21b6a750e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.124
+    second: {fileID: 2100000, guid: 8611313810ea3944288e285b8d113ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.128
+    second: {fileID: 2100000, guid: c1a8b14d9a305234883a63212046d10b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.136
+    second: {fileID: 2100000, guid: ca4e9615360f0ed4b8cec822f3b6afe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.137
+    second: {fileID: 2100000, guid: 2a0fff2fc9c4f7f468fb1234c4c3b05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.140
+    second: {fileID: 2100000, guid: b23da37bb8db4e746aa81ccd0960ef64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.145
+    second: {fileID: 2100000, guid: 398b9637e2a444f4ba8f7d251da59857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.222
+    second: {fileID: 2100000, guid: c259365cc7bfbf945b3e76dd636b34f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.254
+    second: {fileID: 2100000, guid: cdf0507d44536a3469dee49f2c9ae2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.342
+    second: {fileID: 2100000, guid: 127e985a5f7d9c24da7961f3d42b60e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.356
+    second: {fileID: 2100000, guid: 0890763afb9cbdd468527dbb35322144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.361
+    second: {fileID: 2100000, guid: d2417bc9729d0f145b4a2c5a35f56632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.377
+    second: {fileID: 2100000, guid: ae56b4608604f694f883364b2d8b7563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.381
+    second: {fileID: 2100000, guid: 110fcc5302275d144aab174deca9d9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building pallet.390
+    second: {fileID: 2100000, guid: 1f33b5f752240f04aaf765074a8bdc10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monument_pallets.002
+    second: {fileID: 2100000, guid: 7a4e1c4c54f751b4c89386cb8f6350a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall tower pallets.059
+    second: {fileID: 2100000, guid: 32b29a720c698c142a2baed8b378ad44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall tower pallets.060
+    second: {fileID: 2100000, guid: 7661fc11440ebcc4ab8e0e7bd3ea65ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall tower pallets.061
+    second: {fileID: 2100000, guid: 3aa688e7c4caa734a9a1ed496c5a4d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall tower pallets.062
+    second: {fileID: 2100000, guid: debde416d7832f24191f27ba0e1815b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall tower pallets.063
+    second: {fileID: 2100000, guid: 4fc6b6c2e38ed1044a6c8762bb133650, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

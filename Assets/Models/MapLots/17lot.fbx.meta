@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 12a7c4055b2c4314eb6c49186d022cc0
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 2414495126432900637
+    second: Windmill body|Cube.010Action
+  - first:
+      74: -7314913202525363081
+    second: Windmill body|Cube.010Action.003
+  - first:
+      74: -543913262386884772
+    second: Windmill body|Cube.010Action.004
+  - first:
+      74: -7506784972856974542
+    second: Windmill body|Windmill 3.001Action
+  - first:
+      74: -4552674650383502301
+    second: Windmill body|Windmill 3.001Action.003
+  - first:
+      74: 7549191050750583651
+    second: Windmill body|Windmill 3.001Action.004
+  - first:
+      74: -3034638189224968938
+    second: Windmill body.001|Cube.010Action
+  - first:
+      74: 3401669157707155999
+    second: Windmill body.001|Cube.010Action.003
+  - first:
+      74: 3687590703245016711
+    second: Windmill body.001|Cube.010Action.004
+  - first:
+      74: -660836667606179644
+    second: Windmill body.001|Windmill 3.001Action
+  - first:
+      74: -3472879603778998143
+    second: Windmill body.001|Windmill 3.001Action.003
+  - first:
+      74: 2332501082258491634
+    second: Windmill body.001|Windmill 3.001Action.004
+  - first:
+      74: -8792472924061962606
+    second: Windmill body.002|Cube.010Action
+  - first:
+      74: 1562732603138574312
+    second: Windmill body.002|Cube.010Action.003
+  - first:
+      74: 54893897213187754
+    second: Windmill body.002|Cube.010Action.004
+  - first:
+      74: -7727700269305932651
+    second: Windmill body.002|Windmill 3.001Action
+  - first:
+      74: 8563479101768800641
+    second: Windmill body.002|Windmill 3.001Action.003
+  - first:
+      74: 8616100344336325130
+    second: Windmill body.002|Windmill 3.001Action.004
+  - first:
+      74: 6559151499318029529
+    second: Windmill fan|Cube.010Action
+  - first:
+      74: 7765450127885542729
+    second: Windmill fan|Cube.010Action.003
+  - first:
+      74: 7801549541991130099
+    second: Windmill fan|Cube.010Action.004
+  - first:
+      74: -7281288756941170118
+    second: Windmill fan|Windmill 3.001Action
+  - first:
+      74: -3214574194333427370
+    second: Windmill fan|Windmill 3.001Action.003
+  - first:
+      74: -1106030417182560369
+    second: Windmill fan|Windmill 3.001Action.004
+  - first:
+      74: 3993658563419410879
+    second: Windmill fan.001|Cube.010Action
+  - first:
+      74: 365541261069963888
+    second: Windmill fan.001|Cube.010Action.003
+  - first:
+      74: 960149923015346249
+    second: Windmill fan.001|Cube.010Action.004
+  - first:
+      74: 5313309676688912189
+    second: Windmill fan.001|Windmill 3.001Action
+  - first:
+      74: 2913778060746620568
+    second: Windmill fan.001|Windmill 3.001Action.003
+  - first:
+      74: -4318150068271827289
+    second: Windmill fan.001|Windmill 3.001Action.004
+  - first:
+      74: -6508016891002470550
+    second: Windmill fan.002|Cube.010Action
+  - first:
+      74: 8888701847923773990
+    second: Windmill fan.002|Cube.010Action.003
+  - first:
+      74: -5479384761652770883
+    second: Windmill fan.002|Cube.010Action.004
+  - first:
+      74: -3481774190473792689
+    second: Windmill fan.002|Windmill 3.001Action
+  - first:
+      74: -564645944658055141
+    second: Windmill fan.002|Windmill 3.001Action.003
+  - first:
+      74: 8898835905927945643
+    second: Windmill fan.002|Windmill 3.001Action.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK
+    second: {fileID: 2100000, guid: 1f8dd1c0d6fc7054b8969aad6f8641b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAY
+    second: {fileID: 2100000, guid: d764e39774872e74481b859c3634e2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 18419a9564a48ca4b92549cdfa2874a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 49e98f9cc03daa540864cff939cc017d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red roof
+    second: {fileID: 2100000, guid: 785af87276515e44d8e975e8dd837579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monument_pallets.001
+    second: {fileID: 2100000, guid: ec4365ae6f22f874ea09412eac78e215, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
